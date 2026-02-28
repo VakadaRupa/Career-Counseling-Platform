@@ -1,0 +1,7 @@
+{
+  "name": "CareerPath Pro",
+  "description": "A professional career counseling platform featuring AI recommendations, counselor matching, and career path visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
