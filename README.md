@@ -47,10 +47,3 @@ src/
 ├── utils/             # Helper functions
 └── App.jsx
 
----
-
-## ⚙️ Installation Steps
-
-1. Clone the repository
-```bash
-git clone <frontend-repo-link>
